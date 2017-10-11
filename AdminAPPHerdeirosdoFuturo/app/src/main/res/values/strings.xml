@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Admin APP Herdeiros do Futuro</string>
+    <string name="btenviar">Enviar item</string>
+    <string name="hint_nome_item">Nome do item</string>
+    <string name="escolher_imagem">Selecione a imagem do item</string>
+    <string name="btEnviarItens">Fazer Upload de Itens Necessarios</string>
+    <string name="btTirarItens">Retirar Necessidade de Itens</string>
+    <string name="nomeImagem">Nome imagem</string>
+    <string name="carregandoLista">Aguarde o Carregamento dos Itens</string>
+    <string name="enviarEventos">Enviar Eventos Novos</string>
+    <string name="selImagem">Selecione uma Imagem</string>
+    <string name="dEnviando">Enviando Imagem</string>
+    <string name="imagemEnviadoSucesso">Imagem foi Enviada com sucesso</string>
+    <string name="sEnvidado">Enviado: </string>
+    <string name="SImagem">Selecione uma imagem</string>
+    <string name="entreEvento">Entre com a Data do Evento</string>
+    <string name="eDataEvento">Data do Evento: </string>
+    <string name="nomeEvento">Entre com o nome do Evento</string>
+    <string name="eNomeEvento">Nome do Evento</string>
+    <string name="cadastrarEvento">Cadastrar Evento</string>
+    <string name="enviandoEvento">Enviando Evento</string>
+    <string name="erroEvento">Entre com o Nome e a Data do Evento</string>
+    <string name="eventoEnviando">Enviando Evento</string>
+    <string name="eventoEnviadoSucesso">Evento foi enviado com sucesso</string>
+</resources>
